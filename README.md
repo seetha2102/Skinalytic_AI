@@ -1,4 +1,4 @@
-# 🧠 Skinalytic AI  
+# 🤝🏻 🤝🏼 Skinalytic AI  🤝🏽 🤝🏾 
 ### AI-Based Skincare Analysis With Explainable AI (XAI)
 
 Skinalytic AI is a deep-learning project that classifies skin conditions specifically **acne** and **pigmentation** using Convolutional Neural Networks (CNNs).  
