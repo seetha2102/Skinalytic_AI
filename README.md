@@ -26,7 +26,7 @@ The system integrates **Explainable AI (XAI)** methods such as **SHAP** and **Gr
 
 ## 🧠 Models Used
 
-### 🔹 Hybrid CNN  
+### 🔹 Hybrid CNN (ResNet50V2 + MobileNetV2)
 A custom-built convolutional network optimized for skin-image features.
 
 ### 🔹 ResNet50V2  
