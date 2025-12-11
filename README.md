@@ -1,7 +1,7 @@
 # 🧠 Skinalytic AI  
 ### AI-Based Skincare Analysis With Explainable AI (XAI)
 
-Skinalytic AI is a deep-learning project that classifies skin conditions—specifically **acne** and **pigmentation**—using Convolutional Neural Networks (CNNs).  
+Skinalytic AI is a deep-learning project that classifies skin conditions specifically **acne** and **pigmentation** using Convolutional Neural Networks (CNNs).  
 The system integrates **Explainable AI (XAI)** methods such as **SHAP** and **Grad-CAM** to reveal *why* the model makes its predictions, improving trust, transparency, and reliability.
 
 ---
@@ -56,6 +56,17 @@ The project evaluates:
 This tests how much changes in the input affects the output
 
 A stable model should maintain most of its confidence even after noise is added.
+
+---
+
+## 📂 Dataset
+
+Skinalytic AI is trained and evaluated using two benchmark skin-image datasets:
+
+- **SD-198**: A large dataset covering 198 skin disease categories.  
+- **Fitzpatrick17k**: A diverse dataset containing skin tones across the Fitzpatrick scale.
+
+These datasets help ensure robust and fair model performance.
 
 ---
 
